@@ -25,3 +25,6 @@
 [submodule "part6"]
 	path = part6
 	url = git@github.com:otorniko/part6.git
+[submodule "part7"]
+	path = part7
+	url = git@github.com:otorniko/part7.git
